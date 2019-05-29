@@ -700,3 +700,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
   color: #fab11c;
 }
+
+#footertext{
+  font-size: 22px;
+}
